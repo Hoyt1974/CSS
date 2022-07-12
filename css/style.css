@@ -34,7 +34,7 @@ body {
   line-height: 1.5;
 }
 img {
-  width: 450px;
+  width: 100%;
 }
 a {
   color: #ffe66d;
@@ -117,7 +117,7 @@ header {
 /* Technologies
   -----------------*/
 .technology {
-  color: aqua;
+  color: #2f3061;
 }
 /* .technology1 {
   color: aqua;
@@ -133,7 +133,7 @@ header {
   -----------------*/
 .work-experience {
   background: #f7fff7;
-  color: aqua;
+  color: #2f3061;
 }
 /* Education
   -----------------*/
